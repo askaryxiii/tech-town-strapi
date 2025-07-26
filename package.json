@@ -26,8 +26,8 @@
     "styled-components": "^6.0.0"
   },
   "engines": {
-    "node": ">=18.x",
-    "npm": ">=9.x"
+    "node": ">=18.0.0 <=22.x.x",
+    "npm": ">=6.0.0"
   },
   "strapi": {
     "uuid": "1a4e4923-913c-4041-bad9-c7c0fa059b42",
